@@ -9,6 +9,8 @@ Data Preprocessing: Handling missing values, removing duplicates, and converting
 - Understanding the correlations between different audio features.
 
 Model Training: Training a KNN model on the processed data to find similar songs.
+
 API Development: Creating a Flask API to handle recommendation requests.
+
 User Interface: Building a Streamlit app to provide a user-friendly interface for inputting song names and displaying recommendations.
 
