@@ -32,5 +32,9 @@ Steps to test the app, run the following commands:
     ```
 6. Test the Recommendation System
    - Select the song and click recommend
+  
+![Screenshot]("D:\music data\Screenshot 2024-06-17 235239.png")
+
+![Screenshot]("D:\music data\Screenshot 2024-06-17 235519.png")
    
 
