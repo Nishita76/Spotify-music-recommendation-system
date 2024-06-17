@@ -18,14 +18,18 @@ User Interface: Building a Streamlit app to provide a user-friendly interface fo
 Steps to test the app, run the following commands:
 1. Clone the Repository, cd into the folder.
 2. Install Dependencies
-   '''
-   pip install -r requirements.txt
-   '''
-4. Start the Flask Server
-   python app.py
-5. Start the Streamlit App
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. Start the Flask Server using the app.py file, and run the code in terminal.
+    ```bash
+    python app.py
+    ```
+5. Start the Streamlit App using streamlit app.py file 
    In a new terminal, run:
-   streamlit run streamlit_app.py
+    ```bash
+    streamlit run streamlit_app.py
+    ```
 6. Test the Recommendation System
    - Select the song and click recommend
    
