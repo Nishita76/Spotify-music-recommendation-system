@@ -32,9 +32,18 @@ Steps to test the app, run the following commands:
     ```
 6. Test the Recommendation System
    - Select the song and click recommend
-  
-![Screenshot]("D:\music data\Screenshot 2024-06-17 235239.png")
 
-![Screenshot]("D:\music data\Screenshot 2024-06-17 235519.png")
+![tuxpi com 1718703118](https://github.com/Nishita76/Spotify-music-recommendation-system/assets/172424530/c9157b21-5e34-4a93-970e-7d0b4776a5ad) 
+
+![tuxpi com 1718704860](https://github.com/Nishita76/Spotify-music-recommendation-system/assets/172424530/9625e661-b808-4cd3-b068-b811bfb183be) 
+
+
+
+
+
+
+  
+
+
    
 
